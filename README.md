@@ -30,7 +30,7 @@ Agent's Gameplay mid-training (near 30,000 iterations):
 
 ![myAgentPlays_14 (2)](https://user-images.githubusercontent.com/61733487/208232117-5940b71a-59e6-4d17-9ba9-24d1f3875b23.gif)
 
-The agent learned some new things -- now it knows it needs to shoot the enemy bats and kill them in order to gain points, but it hasn't yet learned how to stay alive by evading the enemy fire.
+The agent learned some new things -- now it knows it can earn some rewards by filling in some openings.
 
 Agent's Gameplay after training (over 300,000 iterations):
 
@@ -38,7 +38,7 @@ Agent's Gameplay after training (over 300,000 iterations):
 
 At this point in the training, we have reached Human-Level Control in the Gameplay.
 
-We can see that the Gameplay has improved. The agent has learned that it needs to protect the carrots in order to stay alive, which will let it get more rewards. Furthermore, it has discovered that rewards are earned by filling holes and greater rewards are earned by catching the Gophers. Consequently, the farmer tries to wait for the Gopher at one opening and fills all the others. Other times, it waits for a Gopher to run to the carrots from the other side and then hurries over to catch it. This level of strategizing is only witnessed in human gameplay.
+We can see that the Gameplay has improved. The agent has learned that it needs to protect the carrots in order to stay alive, which will let it get more rewards. Furthermore, it has discovered that rewards are earned by filling holes and greater rewards are earned by catching the Gophers. Consequently, the farmer tries to wait for the Gopher at one opening and fills all the others. Other times, it waits for a Gopher to run to the carrots from the other side and then rushes over to catch it when the Gopher is above ground. This level of strategizing is only witnessed in human gameplay.
 
 References:
 
