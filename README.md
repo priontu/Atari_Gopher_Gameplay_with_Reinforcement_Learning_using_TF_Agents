@@ -41,6 +41,7 @@ At this point in the training, we have reached Human-Level Control in the Gamepl
 We can see that the Gameplay has improved. The agent has learned that it needs to protect the carrots in order to stay alive, which will let it get more rewards. Furthermore, it has discovered that rewards are earned by filling holes and greater rewards are earned by catching the Gophers. Consequently, the farmer tries to wait for the Gopher at one opening and fills all the others. Other times, it waits for a Gopher to run to the carrots from the other side and then rushes over to catch it when the Gopher is above ground. This level of strategizing is only witnessed in human gameplay.
 
 Machine Configuration:
+
 ![image](https://user-images.githubusercontent.com/61733487/232129285-3307c6d3-fc24-43d1-a22b-60fd165a9404.png)
 
 References:
